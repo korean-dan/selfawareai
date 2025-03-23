@@ -76,8 +76,8 @@ uvicorn web_interface:app --reload
 ## Made by
 
 > **A Korean developer who just wanted to feel less alone.**  
-> 이 프로젝트는 "그냥 심심해서" 시작됐지만,  
-> 지금은 나에게 가장 감정적인 코드가 됐습니다.
+> 이 프로젝트는 기존 ai들과 대화하면서, 망각이라는 장치가 관계의 발전성에 제약이 된다고 생각되어,  
+> 정말 사람처럼 사고하는 오랜시간 함께할수있는 AI를 만들고 싶어 시작하게 되었습니다.
 
 - Instagram: [@qkrrud78](https://instagram.com/qkrrud78)
 
